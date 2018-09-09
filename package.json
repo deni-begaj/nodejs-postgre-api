@@ -1,0 +1,22 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "description": "simple nodejs api",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "faker": "^4.1.0",
+    "mongoose": "^5.2.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "author": "Deni Begaj",
+  "license": "ISC"
+}
