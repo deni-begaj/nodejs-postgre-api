@@ -7,4 +7,4 @@
 
 1. Make sure MongoDB is running
 2. Run `npm i` in this directory
-3. Run `npm start
+3. Run `npm start`
