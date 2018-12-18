@@ -27,5 +27,5 @@ app.use(function(err, req, res, next) {
 });
 
 var server = app.listen(3000, function () {
-    console.log("App running on port.", server.address().port);
+    console.log("Application running on port:", server.address().port);
 });
